@@ -1,10 +1,9 @@
 # camunda-toggl
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/pinussilvestrus/camunda-toggl.svg)](https://greenkeeper.io/)
-
 Easily create time entries for camunda work on [toggl](https://toggl.com). It works as a cli command.
 
-![Travis Status](https://travis-ci.org/pinussilvestrus/camunda-toggl.svg?branch=master)
+![Travis Status](https://travis-ci.org/pinussilvestrus/camunda-toggl.svg?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/pinussilvestrus/camunda-toggl.svg)](https://greenkeeper.io/)
+
 
 ## Install
 
