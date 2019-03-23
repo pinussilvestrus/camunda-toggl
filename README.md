@@ -27,3 +27,12 @@ $ camunda-toggl -d 'did some stuff' -s '08:00AM' -e '04:00PM'
 ```sh
 $ camunda-toggl -h
 ```
+
+## Releasing
+
+We use [`np`](https://github.com/sindresorhus/np) for releasing new versions
+
+```sh
+$ npm i -g np
+$ np
+```
