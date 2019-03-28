@@ -4,7 +4,9 @@
   "description": "Easily create time entries for camunda work on Toggl",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha"
+    "lint": "eslint .",
+    "mocha": "mocha",
+    "test": "npm run lint && npm run mocha"
   },
   "repository": {
     "type": "git",
@@ -31,6 +33,11 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.0.2"
+    "eslint": "^5.15.3",
+    "mocha": "^6.0.2",
+    "mocha-sinon": "^2.1.0",
+    "mock-require": "^3.0.3",
+    "sinon": "^7.3.0",
+    "sinon-chai": "^3.3.0"
   }
 }
