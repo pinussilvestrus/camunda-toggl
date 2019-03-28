@@ -1,6 +1,6 @@
 {
   "name": "camunda-toggl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily create time entries for camunda work on Toggl",
   "main": "lib/index.js",
   "scripts": {
