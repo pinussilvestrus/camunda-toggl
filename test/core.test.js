@@ -20,7 +20,7 @@ describe('core', function() {
                 description: 'test',
                 start: '08:00AM',
                 end: '04:00PM',
-                apiKey: "test"
+                apiToken: 'test'
             }
     
             // when
