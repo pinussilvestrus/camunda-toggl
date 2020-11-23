@@ -26,19 +26,19 @@
   },
   "homepage": "https://github.com/pinussilvestrus/camunda-toggl#readme",
   "dependencies": {
-    "inquirer": "^7.2.0",
-    "lodash": "^4.17.15",
-    "moment": "^2.26.0",
-    "mri": "^1.1.5",
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "mri": "^1.1.6",
     "toggl-api": "^1.0.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "eslint": "^7.2.0",
-    "mocha": "^8.0.1",
+    "eslint": "^7.14.0",
+    "mocha": "^8.2.1",
     "mocha-sinon": "^2.1.2",
     "mock-require": "^3.0.3",
-    "sinon": "^9.0.2",
+    "sinon": "^9.2.1",
     "sinon-chai": "^3.5.0"
   }
 }
