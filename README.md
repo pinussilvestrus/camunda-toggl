@@ -2,8 +2,7 @@
 
 Easily create time entries for camunda work on [toggl](https://toggl.com). It works as a cli command.
 
-![Travis Status](https://travis-ci.org/pinussilvestrus/camunda-toggl.svg?branch=master) ![Version](https://img.shields.io/npm/v/camunda-toggl.svg)
-
+![Build Status](https://github.com/pinussilvestrus/camunda-toggl/workflows/ci/badge.svg) ![Version](https://img.shields.io/npm/v/camunda-toggl.svg)
 
 ## Install
 
